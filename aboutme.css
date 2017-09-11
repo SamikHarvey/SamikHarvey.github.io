@@ -1,0 +1,42 @@
+body { 
+    background-color:Moccasin;   
+}
+h1 { 
+   font-size:50px; 
+   font-family:"Anton"; 
+   color:#CB3D00;
+   line-height:1.0;
+}
+
+h2 { 
+  text-align:center;
+  font-size:30px; 
+  font-family:"Bree Serif"; 
+  color:rgb(34,139,34); 
+  line-height:1.0; 
+  background-color:rgba(0, 0, 0, 0)
+} 
+
+p { 
+  font-size:25px;  
+  font-family:"Signikar";
+  color:SlateBlue;
+  text-align:center; 
+  line-height:2.0;
+} 
+
+ul { 
+  font-family:"Ubuntu Condensed";
+  color:rgb(	255,127,36); 
+  line-height:2.0;
+  list-style-type:square;
+}
+
+ol {
+    font-size:15px;
+    font-family:"Ubuntu Condensed";
+     text-decoration:none;   
+     color:rgb(	255,127,36); 
+     line-height:2.0;
+     list-style-type:upper-roman;
+}
