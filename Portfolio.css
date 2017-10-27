@@ -1,0 +1,65 @@
+
+body{
+    background-color:LightBlue;   
+     margin: 0;
+    font-family:"Acme"; 
+}
+
+li {
+    border-right:1px solid black;
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color:purple;
+}
+    
+ul {
+    position: fixed;
+    top: 0;
+    width: 20%;
+    border: 2.5px purple;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:black;
+}
+    
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    
+}
+
+th {
+    height: 50px;
+}
+.main{width:75%;
+    margin-left:25%;
+    padding:10px 10px
+}
+img {
+    height:300px;
+    width:305px;
+}
+
+h2, h1 {
+    text-align:center;
+}
+li a.active {
+    background-color: purple;
+    color: white;
+}
