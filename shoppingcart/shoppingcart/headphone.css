@@ -1,0 +1,45 @@
+body{
+    background-color:black;
+     font-family:Permanent Marker;
+}
+h1{
+    color:#47AD74;
+}
+
+.header{
+  text-align:center;
+}
+
+img{
+    text-align:center;
+}
+
+.Beats-btn, .Apple-btn, .Sony-btn, .Skullcandy-btn{
+     width:195px;
+    font-size:33px;
+    background-color:#47AD74;
+    color:gold;
+    margin:block;
+    display:inline;
+    
+}
+
+.Beats{
+    display:none;
+}
+
+.bstuff {
+    border-style:solid;
+    border-color:red;
+   background-color:white;
+    border-width:10px;
+    padding:0px 30px 30px 30px;
+    width:50%;
+    margin:auto;
+}
+
+.bb{
+    width:100px;
+}
+
+    
