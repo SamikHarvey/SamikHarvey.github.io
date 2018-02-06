@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+}
+
+.title{
+  
+    background-image:url("boondocks.png");
+}
+
+.q1, .q2, .q3, .q4, .s3,.s1,.s2, .q1-choice, .q2-choice, .q3-choice,.q4-choice {
+    display: none;
+}
+ 
